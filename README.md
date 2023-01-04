@@ -13,10 +13,13 @@ I like to be aware of the new technologies that come out at all times to put the
 - 📫 How to reach me: joelss084@gmail.com
 - 
 ### Connect with me
- <a href="https://twitter.com/jlferrete" target="blank">
+
+ <a href="https://www.linkedin.com/in/joel-solera-sanchez-400606245/" target="blank">
   <img align="center" src="https://img.icons8.com/fluency/512/linkedin-2.png" alt="jlferrete" height="44px" width="44px"  />
  </a>
+ 
+ ### Languages and Tools:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelss11&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelss11)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
