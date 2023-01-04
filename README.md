@@ -20,6 +20,7 @@ I like to be aware of the new technologies that come out at all times to put the
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="65" height="65"/> </a>
 </p>
  
+ ____
  ##### FrontEnd Development
 
 
@@ -44,15 +45,20 @@ _____
 <a href="https://sequelize.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="mysql" width="65" height="65"/> </a> 
  </p>
 
-
+____
  
  ### Languages and Tools:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelss11&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelss11)](https://github.com/anuraghazra/github-readme-stats)
 
+____
 
-### Connect with me
+### Connect with me ☕️
 
+
+<p align="left">
+<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3178/3178283.png" alt="Joel Solera" height="45" width="45" /> joelss084@gmail.com</a>
+</p>
  <a href="https://www.linkedin.com/in/joel-solera-sanchez-400606245/" target="blank">
-  <img align="center" src="https://img.icons8.com/fluency/512/linkedin-2.png" alt="jlferrete" height="44px" width="44px"  />
+  <img align="center" src="https://img.icons8.com/fluency/512/linkedin-2.png" alt="jlferrete" height="44px" width="44px"/> linkedin
  </a>
